@@ -6,6 +6,17 @@
         <description>HAI release updates</description>
         <language>ko</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Sat, 03 Oct 2026 03:33:58 +0900</pubDate>
+            <link>https://github.com/jinnyday0719/HAI</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>프롬프트 선택 동작을 수정하고 입력 일시 정지 아이콘을 개선했습니다.</p>
+]]></description>
+            <enclosure url="https://github.com/jinnyday0719/HAI/releases/download/v1.0.1/HAI-1.0.1.dmg" length="1802909" type="application/octet-stream" sparkle:edSignature="snsIXoTqb52jwmQzzKzTuyrv7qKucE6Pxd8P3c3Hq45SsZlo1L4X2YG0Zznrlte6ULXPQdfinAXMuY2GIERwAQ=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Fri, 02 Oct 2026 22:03:40 +0900</pubDate>
             <link>https://github.com/jinnyday0719/HAI</link>
