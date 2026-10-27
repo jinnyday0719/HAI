@@ -6,6 +6,17 @@
         <description>HAI release updates</description>
         <language>ko</language>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Tue, 27 Oct 2026 16:24:41 +0900</pubDate>
+            <link>https://github.com/jinnyday0719/HAI</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>메뉴를 정리했습니다. macOS 27 이상이 필요합니다.</p>
+]]></description>
+            <enclosure url="https://github.com/jinnyday0719/HAI/releases/download/v1.0.2/HAI-1.0.2.dmg" length="1493427" type="application/octet-stream" sparkle:edSignature="Ai+Dk/ZoH7SbxZCZpq7khZBbrxNJCUNDI3ESdSK9GAvWjdDbJ8DxEaaNmMwn+QJ7YoPds+dD8i+iQtWp2yHMCw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Sat, 03 Oct 2026 03:33:58 +0900</pubDate>
             <link>https://github.com/jinnyday0719/HAI</link>
